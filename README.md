@@ -13,6 +13,6 @@
 #### I'm a Full-Stack Sênior Developer working in São Gotardo, Brazil.
 
 - 🏢 I'm currently working at **[Rastreagro.com](https://rastreagro.com)**
-- ⚙️ I use daily: `.cs`, `.java`, `.js`, `.ts`, `.go`,`.py`, `.html`, `.css`
+- ⚙️ I use daily: `.cs`, `.java`, `.js`, `.ts`,  `.jsx`, `.tsx`,`.go`,`.py`, `.html`, `.css`
 - 🌱 Learn all about **Open Source** and **Financial Market**
 - 📫 Reach me: [mperes@rastreagro.com](mailto://mperes@rastreagro.com)
