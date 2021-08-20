@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Miguel Peres 👋
 
-<!--
-**miiguelperes/miiguelperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AWS](https://img.shields.io/badge/AWS-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Expert-orange)
+![NodeJS](https://img.shields.io/badge/Node%20JS-Expert-green)
+![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
+![GO](https://img.shields.io/badge/GO-Intermediate-lightgrey)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-lightgrey)
+![ReactNative](https://img.shields.io/badge/React%20Native-Expert-9cf)
+![ReactJS](https://img.shields.io/badge/React%20JS-Expert-9cf)
 
-Here are some ideas to get you started:
+#### I'm a Full-Stack Sênior Developer working in São Gotardo, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **[Rastreagro.com](https://rastreagro.com)**
+- ⚙️ I use daily: `.cs`, `.java`, `.js`, `.ts`, `.go`,`.py`, `.html`, `.css`
+- 🌱 Learn all about **Open Source** and **Financial Market**
+- 📫 Reach me: [mperes@rastreagro.com](mailto://mperes@rastreagro.com)
