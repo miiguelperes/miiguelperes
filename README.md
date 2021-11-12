@@ -12,7 +12,7 @@
 
 #### I'm a Full-Stack Sênior Developer working in São Gotardo, Brazil.
 
-- 🏢 I'm currently working at **[Globalfarm.com](https://rastreagro.com)** , **[Rastreagro.com](https://rastreagro.com)** , **[Realtec.com.br](https://realtec.com.br)**
+- 🏢 I'm currently working at **[Globalfarm.com.br](https://globalfarm.com.br)** , **[Rastreagro.com](https://rastreagro.com)** , **[Realtec.com.br](https://realtec.com.br)**
 - ⚙️ I use daily: `.cs`, `.java`, `.js`, `.ts`,  `.jsx`, `.tsx`,`.go`,`.py`, `.html`, `.css`
 - 🌱 Learn all about **Open Source** and **Financial Market**
 - 📫 Reach me: [mperes@rastreagro.com](mailto://mperes@rastreagro.com)
